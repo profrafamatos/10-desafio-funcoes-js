@@ -1,6 +1,7 @@
 /**** Escreva o código abaixo (linhas 2 - 4) 👇******/
-
-
+function calculadoraIMC(peso, altura) {
+  return peso / (altura * altura);
+};
 
 /**** Escreva o código acima ☝️******/
 
